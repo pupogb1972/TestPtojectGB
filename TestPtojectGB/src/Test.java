@@ -4,4 +4,5 @@ public class Test {
   System.out.println("server");
   System.out.println("ora");
   System.out.println("io");
+  int i=10;
 }
